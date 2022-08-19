@@ -16,4 +16,8 @@ Development of a real time emotion detection using CNN.
 1. Improved model using transfer learning (RESNET50, EfficientNET).
 2. UI interface.
 
+# Current output
+
+
+
 
