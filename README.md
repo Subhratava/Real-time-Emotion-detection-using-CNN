@@ -17,6 +17,7 @@ Development of a real time emotion detection using CNN.
 2. UI interface.
 
 # Current output
+![image](https://user-images.githubusercontent.com/41603518/185570445-2d6b17a3-88f7-446c-aaf9-95a2e9055cec.png)
 
 
 
